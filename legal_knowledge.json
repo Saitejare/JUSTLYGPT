@@ -1,0 +1,74 @@
+{
+    "legal_cases": [
+      {
+        "category": "Property",
+        "keywords": ["property", "land", "house", "eviction"],
+        "question": "Can a landlord evict me without notice?",
+        "answer": "No. Landlord must give 1-month written notice. If forced out, file a complaint at the police station.",
+        "simplified_law": "1-month notice required for eviction",
+        "hi": {
+          "question": "क्या मकान मालिक बिना नोटिस के मुझे बेदखल कर सकता है?",
+          "answer": "नहीं। मकान मालिक को 1-माह का लिखित नोटिस देना होगा। जबरदस्ती होने पर पुलिस में शिकायत करें।",
+          "simplified_law": "बेदखली के लिए 1-माह का नोटिस जरूरी"
+        },
+        "te": {
+          "question": "నా యజమాని నోటీసు లేకుండా నన్ను బహిష్కరించగలరా?",
+          "answer": "లేదు. యజమాని 1-నెల నోటీసు ఇవ్వాలి. బలవంతంగా తొలగిస్తే, పోలీస్ స్టేషన్లో ఫిర్యాదు చేయండి.",
+          "simplified_law": "బహిష్కరణకు 1-నెల నోటీసు అవసరం"
+        }
+      },
+  
+      {
+        "category": "Farmer Rights",
+        "keywords": ["farm", "land", "crop", "compensation"],
+        "question": "What if the government takes my farmland without payment?",
+        "answer": "Illegal! You must get compensation under Land Acquisition Act. Contact the District Collector with land records.",
+        "simplified_law": "Compensation required for farmland taken",
+        "hi": {
+          "question": "अगर सरकार बिना पैसा दिए मेरी जमीन ले तो?",
+          "answer": "गैरकानूनी! भूमि अधिग्रहण कानून के तहत मुआवजा मिलना चाहिए। जिला कलेक्टर से जमीन के कागजात के साथ संपर्क करें।",
+          "simplified_law": "जमीन लेने पर मुआवजा जरूरी"
+        },
+        "te": {
+          "question": "ప్రభుత్వం డబ్బు లేకుండా నా భూమిని తీసుకుంటే ఏమి చేయాలి?",
+          "answer": "చట్టవిరుద్ధం! ల్యాండ్ అక్విజిషన్ చట్టం ప్రకారం మీకు పరిహారం ఇవ్వాలి. భూమి రికార్డులతో జిల్లా కలెక్టర్ను సంప్రదించండి.",
+          "simplified_law": "భూమి తీసుకున్నందుకు పరిహారం అవసరం"
+        }
+      },
+  
+      {
+        "category": "Family",
+        "keywords": ["divorce", "child custody", "maintenance"],
+        "question": "How can a mother get child custody after divorce?",
+        "answer": "Family courts usually favor mothers for kids under 5. File a custody petition with marriage and child birth proofs.",
+        "simplified_law": "Mothers often get custody of young children",
+        "hi": {
+          "question": "तलाक के बाद माँ बच्चे की कस्टडी कैसे पा सकती है?",
+          "answer": "5 साल से छोटे बच्चों की कस्टडी आमतौर पर माँ को मिलती है। शादी और बच्चे के जन्म प्रमाणपत्र के साथ अर्जी दें।",
+          "simplified_law": "छोटे बच्चों की कस्टडी माँ को मिलती है"
+        },
+        "te": {
+          "question": "డివోర్స్ తర్వాత తల్లి బిడ్డ కస్టడీ ఎలా పొందవచ్చు?",
+          "answer": "5 సంవత్సరాల కంటే చిన్న పిల్లలకు తల్లులకే కస్టడీ ఇస్తారు. వివాహ మరియు పుట్టిన ప్రమాణపత్రాలతో కోర్టులో అర్జీ దాఖలు చేయండి.",
+          "simplified_law": "చిన్న పిల్లలకు తల్లికే కస్టడీ ఇవ్వబడుతుంది"
+        }
+      },
+      {
+        "category": "Traffic",
+        "keywords": ["fine", "driving license", "rash driving"],
+        "question": "What the penalty for driving without a license?",
+        "answer": "₹5,000 fine or 3-month jail. Apply for license online at parivahan.gov.in to avoid trouble.",
+        "simplified_law": "No license = ₹5,000 fine or jail",
+        "hi": {
+          "question": "बिना लाइसेंस गाड़ी चलाने का जुर्माना क्या है?",
+          "answer": "₹5,000 जुर्माना या 3-माह की जेल। परेशानी से बचने के लिए parivahan.gov.in पर ऑनलाइन आवेदन करें।",
+          "simplified_law": "बिना लाइसेंस = ₹5,000 जुर्माना या जेल"
+        },
+        "te": {
+          "question": "లైసెన్స్ లేకుండా డ్రైవింగ్ చేస్తే శిక్ష ఏమిటి?",
+          "answer": "₹5,000 జరిమానా లేదా 3-నెలల జైలు. ఇబ్బంది నివారించడానికి parivahan.gov.in వద్ద లైసెన్స్ కోసం అప్లై చేయండి.",
+          "simplified_law": "లైసెన్స్ లేకుండా డ్రైవింగ్ = ₹5,000 జరిమానా లేదా జైలు"
+        }
+      }
+    ]
+  }
